@@ -8,4 +8,4 @@ Time denotes the particular date and time at which a certain event was performed
 
 k-means clustering was applied to the data with WEKA tool and the results were analysed.
 
-![vis](![vis](https://github.com/manasikattel/moodleusage/blob/master/visualization.png))
+![visualization](![visualization](https://github.com/manasikattel/moodleusage/blob/master/visualization.png))
